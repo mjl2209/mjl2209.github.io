@@ -15,8 +15,8 @@ I'm a brand new post and can be about anything you want. Try playing around with
 _Who knew?_
 1.  PhD programs should incorporate workshops like this into their prof dev. programs
 2.  It would be particularly useful for creating personal websites/grad conferences
-  +I think this will let me make a sublist.
-  +Did it work?
+  a.I think this will let me make a sublist.
+  b.Did it work?
 3.  I could pitch this to the History dept. as a pilot
 
 [I'm an inline-style link](http://history.columbia.edu/graduate/graduate-history-association/)
