@@ -3,7 +3,9 @@ layout: post
 title:  "MJL GitHub Test 2018"
 date:   2018-02-07
 categories: [ one, two, three ]
+permalink: /MJL-GitHub-Test-2018/
 ---
+
 
 ## Practicing Building a Website
 
