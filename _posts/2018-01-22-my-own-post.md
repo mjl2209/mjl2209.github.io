@@ -21,4 +21,4 @@ _Who knew?_
 [I'm an inline-style link](http://history.columbia.edu/graduate/graduate-history-association/)
 
 #### Trying out an image:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.nyu.edu/content/nyu/en/about/news-publications/news/2015/march/timothy-v-johnson-named-head-of-tamiment-library/jcr:content/page/image.img.620.high.jpg/1425479976640.jpg)
