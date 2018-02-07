@@ -5,4 +5,5 @@ date:   2018-02-07
 categories: [ one, two, three ]
 permalink: /mjl-tvj-test/
 ---
-![label][https://www.nyu.edu/content/nyu/en/about/news-publications/news/2015/march/timothy-v-johnson-named-head-of-tamiment-library/jcr:content/page/image.img.620.high.jpg/1425479976640.jpg]
+## Great Picture
+![Tamiment Event](http://www.peoplesworld.org/wp-content/uploads/2016/08/corrphoto520.jpg)
