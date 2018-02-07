@@ -14,7 +14,7 @@ github_username:  mjl2209
 
 # Build settings
 markdown:         kramdown
-remote_theme:     pages-themes/cayman
+remote_theme:     broccolini/athena
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
